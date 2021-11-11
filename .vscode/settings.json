@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "system_error": "c"
+    },
+    "editor.fontSize": 18
+}
